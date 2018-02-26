@@ -2,5 +2,5 @@ package battleShips;
 
 enum State {
 
-    EMPTY, HIT, MISS, SUNK
+    EMPTY, HIT, MISS, SUNK, SHIP
 }
